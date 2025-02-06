@@ -4,6 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/backend-nestjs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/frontend/Angular" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/frontend/ionic/seriesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend/seriesApp/seriesApp" vcs="Git" />
   </component>
 </project>
